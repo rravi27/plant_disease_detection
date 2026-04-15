@@ -6,5 +6,3 @@ __pycache__/
 *.jpg
 *.png
 *.jpeg
-*.keras
-*.h5
